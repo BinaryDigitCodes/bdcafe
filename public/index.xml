@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B&#39;s Digital Cafe</title>
+    <link>https://binarydigit.cafe/</link>
+    <description>Recent content on B&#39;s Digital Cafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I&#39;m up to now</title>
+      <link>https://binarydigit.cafe/now/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/now/</guid>
+      <description>A /now page is a great way to share what’s going on in your life now.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/now/feature-now-background.jpg" />
+    </item>
+    
+    <item>
+      <title>Music Mixes</title>
+      <link>https://binarydigit.cafe/music/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/music/</guid>
+      <description>Audio # I upload my music to SoundCloud if you want to listen to some mixes I&amp;rsquo;ve streamed!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-music-note-background.jpg" />
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://binarydigit.cafe/projects/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/projects/</guid>
+      <description>This Website Redesign # I&amp;rsquo;m redoing my website with Hugo and loving it so far.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/projects/feature-binarycode-background.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://binarydigit.cafe/commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/commands/</guid>
+      <description>Twitch Chat Commands # !</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/commands/featured-twitch-background.jpg" />
+    </item>
+    
+  </channel>
+</rss>
