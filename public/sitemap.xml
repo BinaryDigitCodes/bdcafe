@@ -21,6 +21,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://binarydigit.cafe/posts/postwithimage/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://binarydigit.cafe/posts/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://binarydigit.cafe/projects/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,11 +40,6 @@
   </url>
   <url>
     <loc>https://binarydigit.cafe/commands/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

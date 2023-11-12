@@ -9,6 +9,16 @@
     <copyright>BinaryDigit 2023</copyright>
     <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Post with Image</title>
+      <link>https://binarydigit.cafe/posts/postwithimage/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/posts/postwithimage/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/postwithimage/feature-80s-bg.jpg" />
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://binarydigit.cafe/projects/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
