@@ -5,3 +5,8 @@ I’m doing a digital overhaul for the next few months and would like to make th
 I blog events and photos on my [blog](https://blog.binarydigit.cafe), post random snippets on [Mastodon](https://mstdn.games/@BinaryDigit) and post around the web at the social icons above. Thanks for visiting!
 
 {{< status >}}
+
+<a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
+<a rel="me" href="https://social.lol/@BinaryDigit"></a>
+<a rel="me" href="https://binarydigit.cafe"></a>
+<a rel="me" href="https://micro.blog/@binarydigit"></a>

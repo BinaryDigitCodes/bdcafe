@@ -461,15 +461,6 @@
 
 
 
-<link href="https://micro.blog/binarydigit" rel="me" />
-<link rel="webmention" href="https://micro.blog/webmention" />
-<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
-<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
-
-<a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
-<a rel="me" href="https://social.lol/@BinaryDigit"></a>
-<link rel="stylesheet" type="text/css" href="../css/custom.css">
-
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -541,6 +532,120 @@
     
     
 
+  <a href="/posts/firstpost/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+        
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/img/80s-style-background.jpg);"></div>
+        
+      
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/firstpost/">Blog Post 1</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2023-11-12 00:00:00 &#43;0000 UTC">Nov 12 2023</time>
+  
+
+  
+  
+</div>
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/web/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    web
+  </span>
+</span>
+
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/hugo/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    hugo
+  </span>
+</span>
+
+  </span>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+    
+    
+
   <a href="/projects/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
@@ -585,8 +690,12 @@
 
 
 
+
+
 <div class="flex flex-row flex-wrap items-center">
   
+  
+  <time datetime="2023-11-10 00:00:00 &#43;0000 UTC">Nov 10 2023</time>
   
 
   
@@ -596,6 +705,46 @@
 
 
 
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/web/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    web
+  </span>
+</span>
+
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/hugo/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    hugo
+  </span>
+</span>
+
+  </span>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
 
 
@@ -622,35 +771,7 @@
 
   
       
-    </main><script>
-  const url = 'https://micro.blog/conversation.js?format=jsonfeed&url=https:\/\/binarydigit.cafe\/' + window.location.pathname;
-  fetch(url)
-    .then(data => data.json())
-    .then(data => {
-      if (data.items.length === 0) {
-        comments.innerHTML += "No webmentions yet.."
-      } else {
-        const comments = document.getElementById('comments');
-        comments.innerHTML += data.items.map((item) => {
-          const {author: {avatar, name, url}, date_published, content_html} = item;
-          return `
-          <div class='comment'>
-            <div class='author'>
-              <div class='avatar'><img src="${avatar}" /></div>
-              <div class='name'>
-                <div class='username'><a href="${url}">${name}</a></div>
-                <div class='date'>${new Date(date_published).toDateString()}</div>
-              </div>
-            </div>
-            ${content_html}
-          </div>
-        `;
-        }).join('');
-      }
-    })
-</script>
-
-<footer id="site-footer" class="py-10 print:hidden">
+    </main><footer id="site-footer" class="py-10 print:hidden">
   
   
     

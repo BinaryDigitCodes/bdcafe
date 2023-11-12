@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>BinaryDigit 2023</copyright>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
       <link>https://binarydigit.cafe/categories/hugo/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://binarydigit.cafe/categories/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://binarydigit.cafe/categories/web/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/categories/web/</guid>
       <description></description>
       
     </item>
@@ -34,16 +44,6 @@
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://binarydigit.cafe/categories/video/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://binarydigit.cafe/categories/web/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/categories/web/</guid>
       <description></description>
       
     </item>

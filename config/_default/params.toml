@@ -46,7 +46,7 @@ defaultFeaturedImage = "img/80s-style-background.jpg" # used as default for feat
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = false
@@ -55,7 +55,7 @@ defaultFeaturedImage = "img/80s-style-background.jpg" # used as default for feat
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -68,7 +68,7 @@ defaultFeaturedImage = "img/80s-style-background.jpg" # used as default for feat
   showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]

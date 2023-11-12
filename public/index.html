@@ -480,15 +480,6 @@
 
 
 
-<link href="https://micro.blog/binarydigit" rel="me" />
-<link rel="webmention" href="https://micro.blog/webmention" />
-<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
-<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
-
-<a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
-<a rel="me" href="https://social.lol/@BinaryDigit"></a>
-<link rel="stylesheet" type="text/css" href="../css/custom.css">
-
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -695,6 +686,9 @@
 <p>I blog events and photos on my <a href="https://blog.binarydigit.cafe"   target="_blank">
     blog</a>, post random snippets on <a href="https://mstdn.games/@BinaryDigit"   target="_blank">
     Mastodon</a> and post around the web at the social icons above. Thanks for visiting!</p>
+
+<link rel="stylesheet" type="text/css" href="./css/custom.css">
+
 <hr>
 
 <img id="prami" src="https://cdn.cache.lol/img/prami_content.svg" alt="Prami looking rather contented">
@@ -703,6 +697,10 @@
  	<script src="https://status.lol/binarydigit.js?time&link&pretty"></script>
 </div>
 
+<p><a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
+<a rel="me" href="https://social.lol/@BinaryDigit"></a>
+<a rel="me" href="https://binarydigit.cafe"></a>
+<a rel="me" href="https://micro.blog/@binarydigit"></a></p>
 </section>
                 </div>
             </div>
@@ -725,35 +723,7 @@
     &uarr;
   </a>
 </div>
-    </main><script>
-  const url = 'https://micro.blog/conversation.js?format=jsonfeed&url=https:\/\/binarydigit.cafe\/' + window.location.pathname;
-  fetch(url)
-    .then(data => data.json())
-    .then(data => {
-      if (data.items.length === 0) {
-        comments.innerHTML += "No webmentions yet.."
-      } else {
-        const comments = document.getElementById('comments');
-        comments.innerHTML += data.items.map((item) => {
-          const {author: {avatar, name, url}, date_published, content_html} = item;
-          return `
-          <div class='comment'>
-            <div class='author'>
-              <div class='avatar'><img src="${avatar}" /></div>
-              <div class='name'>
-                <div class='username'><a href="${url}">${name}</a></div>
-                <div class='date'>${new Date(date_published).toDateString()}</div>
-              </div>
-            </div>
-            ${content_html}
-          </div>
-        `;
-        }).join('');
-      }
-    })
-</script>
-
-<footer id="site-footer" class="py-10 print:hidden">
+    </main><footer id="site-footer" class="py-10 print:hidden">
   
   
     

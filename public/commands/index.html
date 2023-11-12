@@ -489,15 +489,6 @@
 
 
 
-<link href="https://micro.blog/binarydigit" rel="me" />
-<link rel="webmention" href="https://micro.blog/webmention" />
-<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
-<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
-
-<a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
-<a rel="me" href="https://social.lol/@BinaryDigit"></a>
-<link rel="stylesheet" type="text/css" href="../css/custom.css">
-
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -506,8 +497,66 @@
 
 <article>
   
+  
+  
+  
+  
+  
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/commands/featured-twitch-background.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
+  
+  
 
   <header id="single_header" class="mt-5 max-w-prose">
+    
+    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/"
+      ></a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/commands/"
+      ></a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
       
@@ -544,8 +593,12 @@
 
 
 
+
+
 <div class="flex flex-row flex-wrap items-center">
   
+  
+  <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">Jan 1 0001</time>
   
 
   
@@ -555,6 +608,22 @@
 
 
 
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
 
 
@@ -802,6 +871,8 @@
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
+                    <time datetime="2023-11-10 00:00:00 &#43;0000 UTC">Nov 10 2023</time>
+                  
                 </span>
               </span>
               <span
@@ -831,35 +902,7 @@
     &uarr;
   </a>
 </div>
-    </main><script>
-  const url = 'https://micro.blog/conversation.js?format=jsonfeed&url=https:\/\/binarydigit.cafe\/' + window.location.pathname;
-  fetch(url)
-    .then(data => data.json())
-    .then(data => {
-      if (data.items.length === 0) {
-        comments.innerHTML += "No webmentions yet.."
-      } else {
-        const comments = document.getElementById('comments');
-        comments.innerHTML += data.items.map((item) => {
-          const {author: {avatar, name, url}, date_published, content_html} = item;
-          return `
-          <div class='comment'>
-            <div class='author'>
-              <div class='avatar'><img src="${avatar}" /></div>
-              <div class='name'>
-                <div class='username'><a href="${url}">${name}</a></div>
-                <div class='date'>${new Date(date_published).toDateString()}</div>
-              </div>
-            </div>
-            ${content_html}
-          </div>
-        `;
-        }).join('');
-      }
-    })
-</script>
-
-<footer id="site-footer" class="py-10 print:hidden">
+    </main><footer id="site-footer" class="py-10 print:hidden">
   
   
     

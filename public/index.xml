@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>BinaryDigit 2023</copyright>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post 1</title>
+      <link>https://binarydigit.cafe/posts/firstpost/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/posts/firstpost/</guid>
+      <description>This is my first post</description>
+      
+    </item>
+    
     <item>
       <title>What I&#39;m up to now</title>
       <link>https://binarydigit.cafe/now/</link>
@@ -26,16 +36,6 @@
       <guid>https://binarydigit.cafe/music/</guid>
       <description>Audio # I upload my music to SoundCloud if you want to listen to some mixes I&amp;rsquo;ve streamed!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-music-note-background.jpg" />
-    </item>
-    
-    <item>
-      <title>Post with Image</title>
-      <link>https://binarydigit.cafe/posts/postwithimage/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/posts/postwithimage/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/postwithimage/feature-80s-bg.jpg" />
     </item>
     
     <item>
