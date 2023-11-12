@@ -11,25 +11,20 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Now"
-   pageRef = "/now"
- weight = 10
+  name = "Music"
+  pre = "music"
+  pageRef = "/music"
 
 [[main]]
- name = "Music"
-   pageRef = "/music"
- weight = 20
+  name = "Projects"
+  pre = "code"
+  pageRef = "/projects"
 
 [[main]]
- name = "Projects"
-   pageRef = "/projects"
- weight = 30
- 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
-
+  name = "Now"
+  pre = "pencil"
+  pageRef = "/now"
+  
 #[[main]]
 #  name = "Parent"
 #  weight = 20

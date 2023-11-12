@@ -2,6 +2,6 @@ Hi I'm B, a New Yorker living in the Metro Detroit area 👋🏽 My work backgro
 
 I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a _digital cafe_; a personal space to gather projects, what I'm working on, thoughts, and notes. 
 
-I blog events and photos on my [blog](https://blog.binarydigit.cafe), post random snippets on [Mastodon](https://mstdn.games/@BinaryDigit) and you can see all of my other work on my [links](https://binarydigit.omg.lol) page. Thanks for visiting! 
+I blog events and photos on my [blog](https://blog.binarydigit.cafe), post random snippets on [Mastodon](https://mstdn.games/@BinaryDigit) and post around the web at the social icons above. Thanks for visiting!
 
 {{< status >}}
