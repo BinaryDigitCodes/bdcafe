@@ -71,6 +71,7 @@ defaultFeaturedImage = "img/80s-style-background.jpg" # used as default for feat
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
+  showComments = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
