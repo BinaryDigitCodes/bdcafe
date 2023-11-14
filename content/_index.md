@@ -10,3 +10,8 @@ I blog events and photos on my [blog](https://blog.binarydigit.cafe), post rando
 <a rel="me" href="https://social.lol/@BinaryDigit"></a>
 <a rel="me" href="https://binarydigit.cafe"></a>
 <a rel="me" href="https://micro.blog/@binarydigit"></a>
+
+<span class="h-card">
+  <a class="u-url" rel="me" href="/"></a>
+  <!-- <img class="u-photo" src="/img/AvatarByHeyMomo.png" /> -->
+</span>
