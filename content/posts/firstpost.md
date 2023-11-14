@@ -6,5 +6,3 @@ categories: ["web", "hugo"]
 ---
 
 This is my first post
-
-<div id="webmentions"></div>
