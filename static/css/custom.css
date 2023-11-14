@@ -7,3 +7,7 @@
     margin-left: 3em;
     float: right;
 }
+
+#webmentions img { 
+    max-height: 1.2em; margin-right: -1ex; 
+}
