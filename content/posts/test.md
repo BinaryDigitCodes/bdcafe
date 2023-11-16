@@ -1,8 +1,8 @@
 ---
 title: "Testing Webmentions"
-date: 2023-11-16
+date: 2023-11-15
+tags: ["webmentions", "web"]
 ---
-
 
 <div class="h-entry">
     <div class="u-author h-card">

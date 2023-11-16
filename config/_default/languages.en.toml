@@ -16,7 +16,7 @@ title = "BinaryDigit"
  [author]
    name = "BinaryDigit"
    image = "img/AvatarByHeyMomo.png"
-   headline = "Welcome to my cozy personal web"
+   headline = "Welcome to my personal web cafe"
    bio = "My cozy personal web"
    links = [
       { envelope = "mailto:BinaryDigit[at]duck.com" },

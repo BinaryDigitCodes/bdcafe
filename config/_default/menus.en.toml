@@ -11,20 +11,44 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Posts"
+  pre = "mug-hot"
+  pageRef = "/posts"
+  weight = 10
+
+[[main]]
   name = "Music"
   pre = "music"
   pageRef = "/music"
+  weight = 20
 
 [[main]]
   name = "Projects"
   pre = "code"
   pageRef = "/projects"
+  weight = 30
 
 [[main]]
   name = "Now"
-  pre = "pencil"
+  pre = "globe"
   pageRef = "/now"
-  
+  weight = 40
+
+
+[[main]]
+ name = "XML"
+ parent = "RSS Feeds"
+ pageRef = "/index.xml"
+ weight = 50
+
+
+[[main]]
+  name = "JSON"
+  parent = "RSS Feeds"
+  pageRef = "/index.json"
+  weight = 60
+
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
@@ -66,7 +90,6 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
 # [[footer]]
 #   name = "Tags"
