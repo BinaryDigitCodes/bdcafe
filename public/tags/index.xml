@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on B&#39;s Digital Cafe</title>
+    <title>Tags on BinaryDigit</title>
     <link>https://binarydigit.cafe/tags/</link>
-    <description>Recent content in Tags on B&#39;s Digital Cafe</description>
+    <description>Recent content in Tags on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>BinaryDigit 2023</copyright>
-    <atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://binarydigit.cafe/tags/hugo/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://binarydigit.cafe/tags/web/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://binarydigit.cafe/tags/music/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://binarydigit.cafe/tags/video/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/video/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

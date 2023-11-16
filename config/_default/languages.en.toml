@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "B's Digital Cafe"
+title = "BinaryDigit"
 
 [params]
   displayName = "EN"
@@ -26,10 +26,8 @@ title = "B's Digital Cafe"
       { soundcloud = "https://soundcloud.com/binarymixes" },
       { youtube = "https://youtube.com/@BinaryDigit" },
       { peertube = "https://makertube.net/a/binarydigit"},      
-      { instagram = "https://instagram.com/binarydigit.cafe" },
       { github = "https://github.com/BinaryDigitCodes" },
-      { prami = "https://binarydigit.omg.lol" },
-      { ko-fi = "https://ko-fi.com/BinaryDigit" },
+      { prami = "https://binarydigit.lol" },
 #     { link = "https://example.com" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

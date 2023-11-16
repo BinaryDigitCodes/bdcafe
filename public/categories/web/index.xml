@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on B&#39;s Digital Cafe</title>
+    <title>web on BinaryDigit</title>
     <link>https://binarydigit.cafe/categories/web/</link>
-    <description>Recent content in web on B&#39;s Digital Cafe</description>
+    <description>Recent content in web on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>BinaryDigit 2023</copyright>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/web/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog Post 1</title>
-      <link>https://binarydigit.cafe/posts/firstpost/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/posts/firstpost/</guid>
-      <description>This is my first post</description>
-      
-    </item>
     
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://binarydigit.cafe/projects/</link>

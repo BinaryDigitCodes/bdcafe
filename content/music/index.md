@@ -2,7 +2,7 @@
 title: "Music Mixes"
 description: BinaryDigit's Music Mix Uploads
 date: 2023-11-10
-categories: ["music", "video"]
+tags: ["music", "video"]
 ---
 
 ## Audio
