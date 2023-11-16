@@ -37,14 +37,14 @@
 
 [[main]]
  name = "XML"
- parent = "RSS Feeds"
+ pre = "rss"
  pageRef = "/index.xml"
  weight = 50
 
 
 [[main]]
   name = "JSON"
-  parent = "RSS Feeds"
+  pre = "rss-square"
   pageRef = "/index.json"
   weight = 60
 
