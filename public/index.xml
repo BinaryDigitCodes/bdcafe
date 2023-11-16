@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Testing Webmentions</title>
+      <link>https://binarydigit.cafe/posts/test/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/posts/test/</guid>
+      <description>BinaryDigit in reply to: @aaronpk</description>
+      
+    </item>
+    
+    <item>
       <title>What I&#39;m up to now</title>
       <link>https://binarydigit.cafe/now/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>

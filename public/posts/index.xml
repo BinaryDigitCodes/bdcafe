@@ -18,5 +18,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/hello/feature-signature.jpg" />
     </item>
     
+    <item>
+      <title>Testing Webmentions</title>
+      <link>https://binarydigit.cafe/posts/test/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/posts/test/</guid>
+      <description>BinaryDigit in reply to: @aaronpk</description>
+      
+    </item>
+    
   </channel>
 </rss>

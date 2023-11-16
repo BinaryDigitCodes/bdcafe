@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://binarydigit.cafe/posts/test/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://binarydigit.cafe/now/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
