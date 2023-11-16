@@ -4,19 +4,19 @@
 
   <url>
     <loc>https://binarydigit.cafe/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://binarydigit.cafe/posts/firstpost/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+    <loc>https://binarydigit.cafe/posts/hello/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://binarydigit.cafe/posts/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

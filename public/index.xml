@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Post 1</title>
-      <link>https://binarydigit.cafe/posts/firstpost/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <title>Hi and Welcome to the Cafe</title>
+      <link>https://binarydigit.cafe/posts/hello/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://binarydigit.cafe/posts/firstpost/</guid>
-      <description>This is my first post</description>
+      <guid>https://binarydigit.cafe/posts/hello/</guid>
+      <description>Welcome to my attempt at blogging with Hugo, finally, on my own domain and hosted via netlify/github.</description>
       
     </item>
     
@@ -25,7 +25,7 @@
       
       <guid>https://binarydigit.cafe/now/</guid>
       <description>A /now page is a great way to share what’s going on in your life now.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/now/feature-now-background.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/now/feature-pastel-squares-freepik.jpg" />
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       
       <guid>https://binarydigit.cafe/music/</guid>
       <description>Audio # I upload my music to SoundCloud if you want to listen to some mixes I&amp;rsquo;ve streamed!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-music-note-background.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-pastel-squares-freepik.jpg" />
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       
       <guid>https://binarydigit.cafe/projects/</guid>
       <description>This Website Redesign # I&amp;rsquo;m redoing my website with Hugo and loving it so far.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/projects/feature-binarycode-background.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/projects/feature-pastel-squares-freepik.jpg" />
     </item>
     
     <item>
