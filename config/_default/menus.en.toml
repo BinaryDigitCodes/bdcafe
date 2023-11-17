@@ -29,10 +29,32 @@
   weight = 30
 
 [[main]]
-  name = "Now"
-  pre = "globe"
-  pageRef = "/now"
+  name = "Status"
+  pre = "heart-empty"
+  url = "https://status.binarydigit.cafe/"
   weight = 40
+
+[[main]]
+  name = "Now"
+  pre = "location-dot"
+  url = "https://now.binarydigit.cafe/"
+  weight = 50
+
+[[main]]
+ name = "RSS"
+ pre = "rss"
+ weight = 60
+
+[[main]]
+ name = "XML"
+ parent = "RSS"
+ url = "/index.xml"
+
+ [[main]]
+ name = "JSON"
+ parent = "RSS"
+ url = "/index.json"
+
 
 #[[main]]
 #  name = "Parent"

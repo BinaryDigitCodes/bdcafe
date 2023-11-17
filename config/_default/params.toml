@@ -20,9 +20,9 @@ disableImageOptimization = true
 defaultBackgroundImage = "img/pastel-squares-freepik.jpg" # used as default for background images 
 defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for featured images in all articles
 
-highlightCurrentMenuArea = true
-smartTOC = true
-smartTOCHideUnfocusedChildren = true
+#highlightCurrentMenuArea = true
+#smartTOC = true
+#smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur

@@ -216,7 +216,7 @@ A more detailed example:
     let authorPhoto = '';
     if (r.author && r.author.photo) {
       authorPhoto = `
-        <img
+        <img style="border-radius: 50%; max-width: 60px"
           src="${entities(r.author.photo)}"
           loading="lazy"
           decoding="async"
@@ -314,7 +314,7 @@ A more detailed example:
    * @returns string
    */
   function formatComments(comments) {
-    const headline = `<h2>${t('Webmention Responses')}</h2>`;
+    const headline = `<h1>${t('Webmentions')}</h1>`;
     const markup = comments
       .map((c) => {
         const image = reactImage(c, true);

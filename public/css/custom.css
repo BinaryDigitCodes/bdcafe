@@ -1,13 +1,13 @@
-#statuslol {
-    margin: 5em;
-}
+/*#status {
+    margin: 4em;
+}*/
+
 
 #prami {
-    width: 3em;
-    margin-left: 3em;
-    float: right;
+    width: 2em;
+    float: left;
 }
 
-#webmentions img { 
+/*#webmentions img { 
     max-height: 1.2em; margin-right: -1ex; 
-}
+}*/
