@@ -1,1 +1,0 @@
-<script src="https://binarydigit.omg.lol/now.js?a=foobar&pretty"></script>
