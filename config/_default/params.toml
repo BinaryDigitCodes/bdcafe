@@ -15,7 +15,7 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
 defaultBackgroundImage = "img/pastel-squares-freepik.jpg" # used as default for background images 
 defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for featured images in all articles
