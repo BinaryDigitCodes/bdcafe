@@ -28,6 +28,12 @@
   pageRef = "/projects"
   weight = 30
 
+  [[main]]
+  name = "Photos"
+  pre = "image"
+  pageRef = "/photos"
+  weight = 30
+
 [[main]]
   name = "Status"
   pre = "heart-empty"

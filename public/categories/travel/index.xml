@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/travel/</link>
+    <description>Recent content in travel on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Fri, 27 Oct 2023 20:25:43 -0500</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://binarydigit.cafe/2023/10/27/nighttime-strolls.html</link>
+      <pubDate>Fri, 27 Oct 2023 20:25:43 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/10/27/nighttime-strolls.html</guid>
+      <description>Nighttime strolls!</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://binarydigit.cafe/2023/10/26/a-very-short.html</link>
+      <pubDate>Thu, 26 Oct 2023 11:47:00 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/10/26/a-very-short.html</guid>
+      <description>A very short snippet of our arrival to Las Vegas for TwitchCon ✈️🚙</description>
+      
+    </item>
+    
+    <item>
+      <title>Photo Log - Detroit And Geekdom</title>
+      <link>https://binarydigit.cafe/2023/05/24/photo-log-detroit.html</link>
+      <pubDate>Wed, 24 May 2023 21:11:54 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/05/24/photo-log-detroit.html</guid>
+      <description>Hitsville, USA When my parents and brother were in town, we did so much around Detroit and locally!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

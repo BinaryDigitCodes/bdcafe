@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>indieweb on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/indieweb/</link>
+    <description>Recent content in indieweb on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Sun, 12 Nov 2023 18:46:09 -0500</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo for Home</title>
+      <link>https://binarydigit.cafe/2023/11/12/hugo-for-home.html</link>
+      <pubDate>Sun, 12 Nov 2023 18:46:09 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/11/12/hugo-for-home.html</guid>
+      <description>I finally got an awesome Hugo template up and running for my homepage and learned a lot in the process.</description>
+      
+    </item>
+    
+    <item>
+      <title>Popular Social Media Apps</title>
+      <link>https://binarydigit.cafe/2023/07/05/popular-social-media.html</link>
+      <pubDate>Wed, 05 Jul 2023 21:19:27 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/07/05/popular-social-media.html</guid>
+      <description>I go through this cycle every few months - get major FOMO from all mainstream social apps (Twitter, Instagram, TikTok, Bluesky) and want to post content there, and then sit back and realize it was all for nothing because I&#39;m not missing *a thing*.</description>
+      
+    </item>
+    
+    <item>
+      <title>Nostalgia Project: Retro Bit</title>
+      <link>https://binarydigit.cafe/2023/06/09/nostalgia-project-retro.html</link>
+      <pubDate>Fri, 09 Jun 2023 09:46:06 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/06/09/nostalgia-project-retro.html</guid>
+      <description>I have a huge love for omg.</description>
+      
+    </item>
+    
+    <item>
+      <title>Indieweb for Wordpress</title>
+      <link>https://binarydigit.cafe/2023/04/28/indieweb-for-wordpress.html</link>
+      <pubDate>Fri, 28 Apr 2023 12:58:02 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/04/28/indieweb-for-wordpress.html</guid>
+      <description>There are a bunch of features I&amp;rsquo;ve enabled via the Indieweb plugin for Wordpress.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

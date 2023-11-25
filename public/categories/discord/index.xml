@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discord on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/discord/</link>
+    <description>Recent content in discord on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Tue, 05 Sep 2023 12:54:31 -0500</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/discord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discord Markdown Links and Safety Warning</title>
+      <link>https://binarydigit.cafe/2023/09/05/discord-markdown-links.html</link>
+      <pubDate>Tue, 05 Sep 2023 12:54:31 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/09/05/discord-markdown-links.html</guid>
+      <description>A discord community member Kazama Jas posted this Tweet warning people that Discord allows for markdown and evildoers can use it to post links that are hidden.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

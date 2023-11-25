@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>BinaryDigit 2023</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy Thanksgiving!</title>
+      <link>https://binarydigit.cafe/posts/thanksgiving2023/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/posts/thanksgiving2023/</guid>
+      <description>Happy Thanksgiving!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/thanksgiving2023/feature-thanksgiving-2023.png" />
+    </item>
+    
     <item>
       <title>My Website Setup</title>
       <link>https://binarydigit.cafe/posts/hugo-setup/</link>
@@ -26,16 +36,6 @@
       <guid>https://binarydigit.cafe/posts/hello/</guid>
       <description>Welcome to my attempt at blogging with Hugo, finally, on my own domain and hosted via netlify/github!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/hello/feature-rainbow.jpg" />
-    </item>
-    
-    <item>
-      <title>Testing Webmentions</title>
-      <link>https://binarydigit.cafe/posts/test/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/posts/test/</guid>
-      <description>BinaryDigit in reply to: @aaronpk</description>
-      
     </item>
     
     <item>
@@ -66,6 +66,16 @@
       <guid>https://binarydigit.cafe/commands/</guid>
       <description>Twitch Chat Commands # !</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/commands/featured-twitch-background.jpg" />
+    </item>
+    
+    <item>
+      <title>TwitchCon 2023</title>
+      <link>https://binarydigit.cafe/photos/oct2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/photos/oct2023/</guid>
+      <description> </description>
+      
     </item>
     
   </channel>

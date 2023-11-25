@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/code/</link>
+    <description>Recent content in code on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Wed, 15 Nov 2023 08:57:47 -0500</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://binarydigit.cafe/2023/11/15/i-just-learned.html</link>
+      <pubDate>Wed, 15 Nov 2023 08:57:47 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/11/15/i-just-learned.html</guid>
+      <description>I just learned that Neocities has a CLI and you can push a static site generator to it!</description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo for Home</title>
+      <link>https://binarydigit.cafe/2023/11/12/hugo-for-home.html</link>
+      <pubDate>Sun, 12 Nov 2023 18:46:09 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/11/12/hugo-for-home.html</guid>
+      <description>I finally got an awesome Hugo template up and running for my homepage and learned a lot in the process.</description>
+      
+    </item>
+    
+    <item>
+      <title>Carbon App</title>
+      <link>https://binarydigit.cafe/2023/10/05/carbon-app.html</link>
+      <pubDate>Thu, 05 Oct 2023 21:06:38 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/10/05/carbon-app.html</guid>
+      <description>I was able to fork a copy of Carbon, a really nice site where you can create and share pretty images of code.</description>
+      
+    </item>
+    
+    <item>
+      <title>Nostalgia Project: Retro Bit</title>
+      <link>https://binarydigit.cafe/2023/06/09/nostalgia-project-retro.html</link>
+      <pubDate>Fri, 09 Jun 2023 09:46:06 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/06/09/nostalgia-project-retro.html</guid>
+      <description>I have a huge love for omg.</description>
+      
+    </item>
+    
+    <item>
+      <title>My Mac Terminal Setup</title>
+      <link>https://binarydigit.cafe/2023/05/26/my-mac-terminal.html</link>
+      <pubDate>Fri, 26 May 2023 20:42:27 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/05/26/my-mac-terminal.html</guid>
+      <description>*Updated 5/26/23</description>
+      
+    </item>
+    
+    <item>
+      <title>Friday Link List 4/7/23</title>
+      <link>https://binarydigit.cafe/2023/04/07/friday-link-list.html</link>
+      <pubDate>Fri, 07 Apr 2023 09:40:00 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/04/07/friday-link-list.html</guid>
+      <description>A short list of websites I find cool or fun!</description>
+      
+    </item>
+    
+    <item>
+      <title>Simple.css &amp;amp; Homepage Redesign</title>
+      <link>https://binarydigit.cafe/2023/01/02/simplecss-amp-homepage.html</link>
+      <pubDate>Mon, 02 Jan 2023 17:19:00 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/01/02/simplecss-amp-homepage.html</guid>
+      <description>&lt;![CDATA[Simple.css &amp; Homepage RedesignnI redid my homepage binarydigit.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

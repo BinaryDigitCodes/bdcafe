@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reflection on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/reflection/</link>
+    <description>Recent content in reflection on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Wed, 16 Aug 2023 08:17:04 -0500</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mood Board</title>
+      <link>https://binarydigit.cafe/2023/08/16/mood-board.html</link>
+      <pubDate>Wed, 16 Aug 2023 08:17:04 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/08/16/mood-board.html</guid>
+      <description>I&#39;ve been down and out lately, so I decided to make a mood board with some favorite things I found on TikTok, Mastodon, other parts of the web, quotes I find etc.</description>
+      
+    </item>
+    
+    <item>
+      <title>Nostalgia Project: Retro Bit</title>
+      <link>https://binarydigit.cafe/2023/06/09/nostalgia-project-retro.html</link>
+      <pubDate>Fri, 09 Jun 2023 09:46:06 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/06/09/nostalgia-project-retro.html</guid>
+      <description>I have a huge love for omg.</description>
+      
+    </item>
+    
+    <item>
+      <title>Another Year 🎂</title>
+      <link>https://binarydigit.cafe/2023/06/04/another-year.html</link>
+      <pubDate>Sun, 04 Jun 2023 08:26:32 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/06/04/another-year.html</guid>
+      <description>It&#39;s kind of hard to put into words how grateful I am to be here.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

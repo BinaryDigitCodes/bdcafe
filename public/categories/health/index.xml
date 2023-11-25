@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/health/</link>
+    <description>Recent content in health on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>BinaryDigit 2023</copyright>
+    <lastBuildDate>Sat, 01 Jul 2023 09:54:29 -0500</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BitFit: Back on Track</title>
+      <link>https://binarydigit.cafe/2023/07/01/bitfit-back-on.html</link>
+      <pubDate>Sat, 01 Jul 2023 09:54:29 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/07/01/bitfit-back-on.html</guid>
+      <description>Lose It!</description>
+      
+    </item>
+    
+    <item>
+      <title>VR for Fitness</title>
+      <link>https://binarydigit.cafe/2023/06/14/vr-for-fitness.html</link>
+      <pubDate>Tue, 13 Jun 2023 23:47:53 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/06/14/vr-for-fitness.html</guid>
+      <description>This week my goal has been to do about 30 minutes of VR games that make me move.</description>
+      
+    </item>
+    
+    <item>
+      <title>Another Year 🎂</title>
+      <link>https://binarydigit.cafe/2023/06/04/another-year.html</link>
+      <pubDate>Sun, 04 Jun 2023 08:26:32 -0500</pubDate>
+      
+      <guid>https://binarydigit.cafe/2023/06/04/another-year.html</guid>
+      <description>It&#39;s kind of hard to put into words how grateful I am to be here.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

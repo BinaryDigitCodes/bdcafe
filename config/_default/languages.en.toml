@@ -20,7 +20,6 @@ title = "BinaryDigit"
    bio = "My cozy personal web"
    links = [
       { envelope = "mailto:BinaryDigit[at]duck.com" },
-      { microdotblog = "https://blog.binarydigit.cafe" },
       { mastodon = "https://mstdn.games/@BinaryDigit" },
       { twitch = "https://twitch.tv/BinaryDigit" },
       { soundcloud = "https://soundcloud.com/binarymixes" },

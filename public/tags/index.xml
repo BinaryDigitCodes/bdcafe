@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>BinaryDigit 2023</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gallery</title>
+      <link>https://binarydigit.cafe/tags/gallery/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/gallery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>photos</title>
+      <link>https://binarydigit.cafe/tags/photos/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/photos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>holiday</title>
+      <link>https://binarydigit.cafe/tags/holiday/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/holiday/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thanksgiving</title>
+      <link>https://binarydigit.cafe/tags/thanksgiving/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/thanksgiving/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>code</title>
       <link>https://binarydigit.cafe/tags/code/</link>
@@ -44,16 +84,6 @@
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://binarydigit.cafe/tags/blog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>webmentions</title>
-      <link>https://binarydigit.cafe/tags/webmentions/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/tags/webmentions/</guid>
       <description></description>
       
     </item>
