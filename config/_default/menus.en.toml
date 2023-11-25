@@ -31,25 +31,25 @@
   [[main]]
   name = "Photos"
   pre = "image"
-  pageRef = "/photos"
-  weight = 30
+  url = "https://binarydigit.photos/"
+  weight = 40
 
 [[main]]
   name = "Status"
   pre = "heart-empty"
   url = "https://status.binarydigit.cafe/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Now"
   pre = "location-dot"
   url = "https://now.binarydigit.cafe/"
-  weight = 50
+  weight = 60
 
 [[main]]
  name = "RSS"
  pre = "rss"
- weight = 60
+ weight = 70
 
 [[main]]
  name = "XML"
