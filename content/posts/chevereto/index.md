@@ -2,7 +2,8 @@
 title: A personal photo gallery
 description: Chevereto image hosting
 date: 2023-11-26
-tags: ["photos"]
+layout: simple
+tags: ["photos", "indieweb"]
 ---
 
 I'm so happy to get Chevereto installed on a [new domain](https://binarydigit.photos/?list=images&sort=date_asc&page=1)! They had a great sale on their one time purchase software, so I grabbed a copy. I wanted some more bells and whistles than their free version.
