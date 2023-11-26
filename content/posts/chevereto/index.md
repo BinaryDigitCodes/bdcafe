@@ -2,7 +2,6 @@
 title: A personal photo gallery
 description: Chevereto image hosting
 date: 2023-11-26
-layout: simple
 tags: ["photos", "indieweb"]
 ---
 
