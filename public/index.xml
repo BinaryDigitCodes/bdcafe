@@ -15,7 +15,7 @@
       
       <guid>https://binarydigit.cafe/posts/chevereto/</guid>
       <description>I&amp;rsquo;m so happy to get Chevereto installed on a new domain!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/chevereto/feature-chevereto.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/chevereto/feature-gallery.png" />
     </item>
     
     <item>
@@ -46,6 +46,16 @@
       <guid>https://binarydigit.cafe/posts/hello/</guid>
       <description>Welcome to my attempt at blogging with Hugo, finally, on my own domain and hosted via netlify/github!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/posts/hello/feature-rainbow.jpg" />
+    </item>
+    
+    <item>
+      <title>Guestbook</title>
+      <link>https://binarydigit.cafe/guestbook/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/guestbook/</guid>
+      <description></description>
+      
     </item>
     
     <item>
