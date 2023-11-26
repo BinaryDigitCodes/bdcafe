@@ -158,10 +158,10 @@ A more detailed example:
     "in-reply-to": "💬",
     "like-of": "❤️",
     "repost-of": "🔄",
-    "bookmark-of": "⭐️",
+    "bookmark-of": "🔖",
     "mention-of": "💬",
     "rsvp": "📅",
-    "follow-of": "🐜"
+    "follow-of": "💾"
   };
 
   /**
@@ -216,7 +216,7 @@ A more detailed example:
     let authorPhoto = '';
     if (r.author && r.author.photo) {
       authorPhoto = `
-        <img style="border-radius: 50%; max-width: 60px"
+        <img style="border-radius: 50%; max-width: 40px"
           src="${entities(r.author.photo)}"
           loading="lazy"
           decoding="async"
