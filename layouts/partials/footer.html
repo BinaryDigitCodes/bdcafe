@@ -75,4 +75,17 @@
 <a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
 <a rel="me" href="https://binarydigit.cafe"></a>
 
+  <!-- ko-fi widget in footer --> 
+{{ if .Site.Params.kofi.globalWidget | default false }}
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('binarydigit', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+{{ end }}
+
 </footer>
