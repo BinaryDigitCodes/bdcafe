@@ -127,6 +127,9 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
+[kofi]
+globalWidget = true
+
 [buymeacoffee]
   # identifier = ""
   # globalWidget = true
