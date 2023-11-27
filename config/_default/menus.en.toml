@@ -35,42 +35,36 @@
   weight = 40
 
 [[main]]
-  name = "Status"
-  pre = "heart-empty"
-  url = "https://status.binarydigit.cafe/"
-  weight = 50
-
-[[main]]
   name = "Now"
   pre = "location-dot"
   url = "https://now.binarydigit.cafe/"
-  weight = 60
+  weight = 50
 
 [[main]]
  name = "RSS"
  pre = "rss-square"
- weight = 70
+ weight = 60
 
 [[main]]
  name = "Site XML"
  pre = "rss"
  parent = "RSS"
  url = "/index.xml"
- weight = 80
+ weight = 70
 
  [[main]]
  name = "Site JSON"
  pre = "rss-square"
  parent = "RSS"
  url = "/index.json"
-weight = 90
+weight = 80
 
  [[main]]
  name = "Posts XML"
  pre = "rss"
  parent = "RSS"
  url = "posts/index.xml"
- weight = 100
+ weight = 90
 
 #[[main]]
 #  name = "Parent"
