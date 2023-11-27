@@ -1,9 +1,8 @@
 ---
-title: Guestbook
+title: "Guestbook"
 description: Sign BinaryDigit's Guestbook!
-date: 2023-11-27
 layout: simple
-tags: ["guestbook"]
+date: 2023-11-27
 ---
 
 <iframe
