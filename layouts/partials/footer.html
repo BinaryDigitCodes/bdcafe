@@ -33,7 +33,8 @@
       <!-- Webrings -->
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
       <a href="" class="tinylytics_webring"><i class="fa-solid fa-shuffle"></i> tinylitics <i class="fa-solid fa-ring"></i></a>
-
+      </p>
+    
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
       <i class="omg-icon omg-sarajoy"></i> CS Joy 
       <a href="https://webri.ng/webring/cssjoy/previous?via=https://binarydigit.cafe/"><i class="fa-regular fa-circle-left"></i>  </a>
@@ -63,6 +64,7 @@
     })
     {{ end }}
   </script>
+  
   {{ $jsProcess := resources.Get "js/process.js" }}
   {{ $jsProcess = $jsProcess | resources.Minify | resources.Fingerprint "sha512" }}
   <script type="text/javascript" src="{{ $jsProcess.RelPermalink }}" integrity="{{ $jsProcess.Data.Integrity }}"></script>
@@ -74,18 +76,4 @@
 <a rel="me" href="https://social.lol/@binarydigit"></a>
 <a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
 <a rel="me" href="https://binarydigit.cafe"></a>
-
-  <!-- ko-fi widget in footer --> 
-{{ if .Site.Params.kofi.globalWidget | default false }}
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('binarydigit', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-{{ end }}
-
 </footer>
