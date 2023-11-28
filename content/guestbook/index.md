@@ -8,6 +8,6 @@ date: 2023-11-27
 <iframe
   title="Guestbook"
   width="100%"
-  height="800"
+  height="1000"
   src="https://littlepixel.club/guestbook/">
 </iframe>
