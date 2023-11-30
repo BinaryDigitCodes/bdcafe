@@ -9,6 +9,6 @@
 
 # redirect binarydigit.cafe/mixfeed to youtube dj set rss "postcast" feed
 [[redirects]]
-  from = "/mixfeed"
+  from = "/mixfeed/"
   to = "https://www.youtube.com/playlist?list=PLzkZmAguzYHlcXU2TmP5wqUS0vo02xoR_"
-  status = 200
+  status = 301
