@@ -72,7 +72,7 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
   showAuthorsBadges = false
   showWordCount = false
   showComments = true
-  # sharingLinks = [ "twitter", "reddit", "pinterest", "email", "mastodon"]
+  #sharingLinks = [ "twitter", "reddit", "pinterest", "email"]
 
 [list]
   showHero = true
@@ -128,7 +128,7 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
   # domain = "llama.yoursite.com"
 
 [kofi]
-globalWidget = true
+# globalWidget = true
 
 [buymeacoffee]
   # identifier = ""

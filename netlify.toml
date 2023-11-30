@@ -6,9 +6,3 @@
   from = "/.well-known/webfinger*"
   to = "https://fed.brid.gy/.well-known/webfinger"
   status = 302
-
-# redirect binarydigit.cafe/mixfeed to youtube dj set rss "postcast" feed
-[[redirects]]
-  from = "/mixfeed/"
-  to = "https://www.youtube.com/playlist?list=PLzkZmAguzYHlcXU2TmP5wqUS0vo02xoR_"
-  status = 200

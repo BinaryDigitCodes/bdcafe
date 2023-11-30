@@ -33,6 +33,7 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  posts = ["HTML", "RSS", "JSON"]
 
 [related]
   threshold = 0
