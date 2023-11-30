@@ -11,4 +11,4 @@
 [[redirects]]
   from = "/mixfeed/"
   to = "https://www.youtube.com/playlist?list=PLzkZmAguzYHlcXU2TmP5wqUS0vo02xoR_"
-  status = 301
+  status = 200
