@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://binarydigit.cafe/mixfeed/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://binarydigit.cafe/guestbook/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
