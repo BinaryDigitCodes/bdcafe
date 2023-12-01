@@ -1,3 +1,10 @@
-User-agent: *
-Allow: /
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
 Sitemap: https://binarydigit.cafe/sitemap.xml
