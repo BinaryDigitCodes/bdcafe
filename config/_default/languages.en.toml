@@ -19,6 +19,7 @@ title = "BinaryDigit"
    headline = "Welcome to my personal web cafe"
    bio = "My cozy personal web"
    links = [
+      { location-dot = "https://now.binarydigit.cafe/" },
       { envelope = "mailto:hi[at]binarydigit.cafe" },
       { mastodon = "https://mstdn.games/@BinaryDigit" },
       { twitch = "https://twitch.tv/BinaryDigit" },

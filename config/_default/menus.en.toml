@@ -35,15 +35,15 @@
   weight = 40
 
 [[main]]
-  name = "Now"
-  pre = "location-dot"
-  url = "https://now.binarydigit.cafe/"
-  weight = 50
-
-[[main]]
   name = "Guestbook"
   pre = "pencil"
   pageRef = "/guestbook"
+  weight = 50
+
+  [[main]]
+  name = "Contact"
+  pre = "comment"
+  pageRef = "/contact"
   weight = 60
 
 [[main]]
@@ -108,7 +108,6 @@ weight = 90
 #  name = "Tags"
 #  pageRef = "tags"
 #  weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
