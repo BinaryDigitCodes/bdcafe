@@ -6,3 +6,7 @@
   from = "/.well-known/webfinger*"
   to = "https://fed.brid.gy/.well-known/webfinger"
   status = 302
+[[redirects]]
+  from = "/now"
+  to = "https://binarydigit.lol/now"
+  status = 302
