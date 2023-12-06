@@ -4,7 +4,12 @@ description: Contact BinaryDigit
 date: 2023-12-01
 ---
 
-<form name="contact" class="contact-form width-normal" action="/thankyou/" method="POST" netlify>
+<form name="contact" class="contact-form width-normal" action="/thankyou/" method="POST" netlify-honeypot="bot-field" netlify>
+    <p class="hidden">
+        <label>
+        Don’t fill this out if you’re human: <input name="bot-field" />
+        </label>
+    </p>
     <input type="hidden" name="form-name" value="contact" />
     <!-- Text input-->
     <div class="form-group">

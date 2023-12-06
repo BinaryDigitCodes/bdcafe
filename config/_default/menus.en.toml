@@ -40,7 +40,7 @@
   pageRef = "/guestbook"
   weight = 50
 
-  [[main]]
+[[main]]
   name = "Contact"
   pre = "comment"
   pageRef = "/contact"
@@ -48,29 +48,9 @@
 
 [[main]]
  name = "RSS"
- pre = "rss-square"
+ pre = "rss"
+url = "posts/index.xml"
  weight = 70
-
-[[main]]
- name = "Site XML"
- pre = "rss"
- parent = "RSS"
- url = "/index.xml"
- weight = 80
-
- [[main]]
- name = "Site JSON"
- pre = "rss-square"
- parent = "RSS"
- url = "/index.json"
-weight = 90
-
- [[main]]
- name = "Posts XML"
- pre = "rss"
- parent = "RSS"
- url = "posts/index.xml"
- weight = 100
 
 #[[main]]
 #  name = "Parent"
