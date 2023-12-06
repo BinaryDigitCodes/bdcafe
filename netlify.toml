@@ -9,8 +9,8 @@
 [[redirects]]
   from = "/now"
   to = "https://binarydigit.lol/now"
-  status = 302
+  status = 301
 [[redirects]]
   from = "/discord"
   to = "https://discord.gg/KjVdUgz4wb"
-  status = 302
+  status = 301
