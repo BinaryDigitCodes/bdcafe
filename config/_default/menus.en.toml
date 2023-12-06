@@ -49,7 +49,7 @@
 [[main]]
  name = "RSS"
  pre = "rss"
-url = "posts/index.xml"
+url = "https://binarydigit.cafe/posts/index.xml"
  weight = 70
 
 #[[main]]
