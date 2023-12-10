@@ -8,3 +8,8 @@ I’m doing a digital overhaul for the next few months and would like to make th
 #### <i class="omg-icon omg-prami"></i> Status.lol
 
 <script src="https://status.lol/binarydigit.js?time&link&no-emoji"></script>
+<<<<<<< HEAD
+=======
+</small>
+
+>>>>>>> refs/remotes/origin/main
