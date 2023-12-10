@@ -24,11 +24,10 @@ title = "BinaryDigit"
       { youtube = "https://youtube.com/@BinaryDigit" },
       { peertube = "https://makertube.net/a/binarydigit"}, 
       { mastodon = "https://social.lol/@binarydigit" },
-      { twitter = "https://twitter.com/BinaryDigit" },
-      { instagram = "https://www.instagram.com/binarydigit.cafe" },     
+      { instagram = "https://www.instagram.com/binarymixes" },     
       { prami = "https://binarydigit.lol" },
       { location-dot = "https://binarydigit.lol/now" },
       { ko-fi = "https://ko-fi.com/binarydigit" },
       { envelope = "mailto:hi[at]binarydigit.cafe" },
-#     { tiktok = "https://tiktok.com/@username" },
+#     { tiktok = "https://tiktok.com/@binarydigit.cafe" },
    ]
