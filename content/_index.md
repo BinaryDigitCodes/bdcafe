@@ -10,3 +10,4 @@ I’m doing a digital overhaul for the next few months and would like to make th
 <small>
 <script src="https://status.lol/binarydigit.js?time&link&no-emoji"></script>
 </small>
+
