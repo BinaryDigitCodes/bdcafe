@@ -57,6 +57,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://binarydigit.cafe/about/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://binarydigit.cafe/music/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

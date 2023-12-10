@@ -41,9 +41,9 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
-  pre = "comment"
-  pageRef = "/contact"
+  name = "About"
+  pre = "circle-info"
+  pageRef = "/about"
   weight = 60
 
 [[main]]

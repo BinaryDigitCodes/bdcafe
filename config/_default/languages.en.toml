@@ -16,7 +16,7 @@ title = "BinaryDigit"
  [author]
    name = "BinaryDigit"
    image = "img/AvatarByHeyMomo.png"
-   headline = "Welcome to my personal web cafe"
+   headline = "A digital cafe of hobbies, projects and notes"
    bio = "Projects, notes and random thoughts"
    links = [
       { ko-fi = "https://ko-fi.com/binarydigit" },

@@ -18,3 +18,4 @@ I couldn't resist the deal to purchase [Chevereto](https://chevereto.com/) to se
 ## Livestreaming
 
 I stream on [Twitch](https://www.twitch.tv/binarydigit/about) and sometimes to [YouTube](https://youtube.com/BinaryDigit). I'm working on getting a schedule back on track with a mix of playing games one day, then DJ sets the next. I'm also working on building an offline music collection. 
+

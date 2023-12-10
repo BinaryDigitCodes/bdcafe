@@ -25,7 +25,7 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
 #smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
