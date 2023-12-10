@@ -1,11 +1,11 @@
 ---
-title: "Hi and Welcome to the Cafe"
+title: "Welcome to my Digital Cafe"
 description: Welcome
 date: 2023-11-16
-tags: ["web", "blog"]
+tags: ["indieweb", "cafe"]
 ---
 
-Welcome to my attempt at blogging with Hugo, finally, on my own domain and hosted via netlify/github! I've attempted to do many things here:
+Welcome to my attempt at a new site with Hugo, finally, on my own domain and hosted via netlify/github! I've attempted to do many things here:
 
 1. Add webmentions, since ideally that would be the way folks respond or comment to my self hosted blog. I really like the fediverse and the indieweb, so hopefully I've installed this correctly. If not I'll keep trying :D
 

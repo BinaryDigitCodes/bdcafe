@@ -11,9 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "Notes"
   pre = "mug-hot"
-  pageRef = "/posts"
+  pageRef = "/notes"
   weight = 10
 
 [[main]]
@@ -24,7 +24,7 @@
 
 [[main]]
   name = "Projects"
-  pre = "code"
+  pre = "lightbulb"
   pageRef = "/projects"
   weight = 30
 
@@ -49,7 +49,7 @@
 [[main]]
  name = ""
  pre = "rss"
-url = "https://binarydigit.cafe/posts/index.xml"
+url = "https://binarydigit.cafe/index.xml"
  weight = 70
 
 #[[main]]
