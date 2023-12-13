@@ -11,7 +11,7 @@ If you're nerdy like me and love to susbscribe to RSS feeds, you can susbscribe 
 [Atom 1.0](https://makertube.net/feeds/videos.atom?videoChannelId=899) <br>
 [JSON 1.0](https://makertube.net/feeds/videos.json?videoChannelId=899) <br> 
 [Podcast RSS 2.0](https://makertube.net/feeds/podcast/videos.xml?videoChannelId=899) <br>
-[YouTube RSS feed](https://www.youtube.com/playlist?list=PLzkZmAguzYHlcXU2TmP5wqUS0vo02xoR_) <br>
+[YouTube feed](https://www.youtube.com/playlist?list=PLzkZmAguzYHlcXU2TmP5wqUS0vo02xoR_) <br>
 
 
 ## Video 
