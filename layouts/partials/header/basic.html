@@ -19,7 +19,8 @@
 <!-- Added IndieAuth h-entry/card etc -->
         <div class="h-entry">
         <div class="u-author h-card">    
-            <a class="u-url" rel="me" href="acct:binarydigit@binarydigit.cafe" p-name flex">
+            <a href="{{ "" | relLangURL }}" class="u-url p-name flex">
+            <a class="u-url" href="acct:binarydigit@binarydigit.cafe"></a>
             <span class="sr-only">{{ .Site.Title | markdownify | emojify }}</span>
 
             <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
