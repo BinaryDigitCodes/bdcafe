@@ -19,15 +19,12 @@ title = "BinaryDigit"
    headline = "A digital cafe of hobbies, projects and notes"
    bio = "Projects, notes and random thoughts"
    links = [
-      { ko-fi = "https://ko-fi.com/binarydigit" },
+      { envelope = "mailto:hi[at]binarydigit.cafe" },
       { mastodon = "https://social.lol/@binarydigit" },
       { twitch = "https://twitch.tv/BinaryDigit" },
       { youtube = "https://youtube.com/@BinaryDigit" },
       { peertube = "https://makertube.net/a/binarydigit"}, 
-      { instagram = "https://www.instagram.com/binarydigit.cafe" },
-      { twitter = "https://twitter.com/BinaryDigit" },
       { tumblr = "https://binarydigit.tumblr.com" },       
       { prami = "https://binarydigit.lol" },
-      { envelope = "mailto:hi[at]binarydigit.cafe" },
-#     { tiktok = "https://tiktok.com/@binarydigit.cafe" },
+      { money-bill-1-wave = "https://streamelements.com/binarydigit/tip" },
    ]
