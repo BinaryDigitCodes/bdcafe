@@ -26,5 +26,5 @@ title = "BinaryDigit"
       { peertube = "https://makertube.net/a/binarydigit"}, 
       { tumblr = "https://binarydigit.tumblr.com" },       
       { prami = "https://binarydigit.lol" },
-      { money-bill-1-wave = "https://streamelements.com/binarydigit/tip" },
+      { paypal = "https://streamelements.com/binarydigit/tip" },
    ]
