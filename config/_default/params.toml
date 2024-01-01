@@ -131,11 +131,11 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
 # globalWidget = true
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+# identifier = "binarydigit"
+# globalWidget = true
+# globalWidgetMessage = "Hello"
+# globalWidgetColor = "#FFDD00"
+# globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

@@ -40,15 +40,15 @@
   data-color="{{ .Site.Params.buymeacoffee.globalWidgetColor | default "#FFDD00" }}" data-position="{{ .Site.Params.buymeacoffee.globalWidgetPosition | default "Left" }}" data-x_margin="18" data-y_margin="18"></script>
 {{ end }}
 
-<!-- {{ if .Site.Params.kofi.globalWidget | default false }}
+{{ if .Site.Params.kofi.globalWidget | default false }}
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('binarydigit', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text': '',
+    'floating-chat.donateButton.background-color': 'silver',
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
-{{ end }} -->
+{{ end }}
 </html>
