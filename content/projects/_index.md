@@ -1,9 +1,7 @@
 ---
 title: "My Current Projects"
 description: BinaryDigit's current web projects
-showAuthor: true
 groupByYear: no
-type: 'sample'
 ---
 
 ### A Personal Photo Gallery

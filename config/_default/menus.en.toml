@@ -17,6 +17,12 @@
   weight = 10
 
 [[main]]
+  name = "Music"
+  pre = "music"
+  pageRef = "/music"
+  weight = 20
+
+[[main]]
   name = "Projects"
   pre = "lightbulb"
   pageRef = "/projects"
@@ -26,19 +32,19 @@
   name = "Guestbook"
   pre = "pencil"
   pageRef = "/guestbook"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "About"
   pre = "circle-info"
   pageRef = "/about"
-  weight = 60
+  weight = 50
 
 [[main]]
  name = ""
  pre = "rss"
 url = "https://binarydigit.cafe/notes/index.xml"
- weight = 70
+ weight = 60
 
 #[[main]]
 #  name = "Parent"

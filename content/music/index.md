@@ -1,7 +1,7 @@
 ---
 title: "Music Mixes"
 description: BinaryDigit's Music Mix Uploads
-tags: ["music", "video", "rss"]
+
 ---
 ## RSS Feeds
 
